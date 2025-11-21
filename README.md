@@ -4,11 +4,11 @@
 
 ## *Multicentre development and two-stage validation of a patient-reported outcome measure for chronic obstructive pulmonary disease*
 
-Hangzhi He, Jie Jin, Xiaojuan Hu, Lifang Li, Li Li, Hui Zhao,* and Yanbo Zhang,* 
+Hangzhi He, Jie Jin, Xiaojuan Hu, Lifang Li, Li Li, Hui Zhao,<sup>#</sup> and Yanbo Zhang<sup>#</sup> 
 
-*Co-corresponding authors
+<sup>#</sup>Co-corresponding authors
 
-![Graphic abstract](.\GraphicAbstract.jpg)
+<p align="center"><img src="/GraphicAbstract.jpg"></p>
 
 ## *Content*
 
