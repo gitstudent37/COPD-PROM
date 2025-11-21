@@ -8,8 +8,8 @@ Hangzhi He, Jie Jin, Xiaojuan Hu, Lifang Li, Li Li, Hui Zhao,<sup>#</sup> and Ya
 
 <sup>#</sup>Co-corresponding authors
 
-<p align="center"><img src="/GraphicAbstract.jpg"></p>
 
+<p align="center"><img src="/GraphicAbstract.jpg"></p>
 
 ## *Content*
 
@@ -36,7 +36,6 @@ Hangzhi He, Jie Jin, Xiaojuan Hu, Lifang Li, Li Li, Hui Zhao,<sup>#</sup> and Ya
   * **Heatmap.py** — script for generating heatmaps
   * **SplitHalf.R** — script for calculating split-half reliability
   * **data_demo.xlsx** — demo dataset for validation analyses
-
 
 ## *Get started*
 
