@@ -1,4 +1,4 @@
-# Development, Validation, and Clinical Interpretation of a Patient-Reported Outcome Measure (PROM) for chronic obstructive pulmonary disease（COPD）
+# Development, Validation, and Clinical Interpretation of a Patient-Reported Outcome Measure (PROM) for chronic obstructive pulmonary disease (COPD)
 
 *The related report:*
 
