@@ -8,7 +8,7 @@ Hangzhi He, Jie Jin, Xiaojuan Hu, Lifang Li, Li Li, Hui Zhao,* and Yanbo Zhang,*
 
 *Co-corresponding authors
 
-![Graphic abstract](E:\copd_prom\GraphicAbstract.jpg)
+![Graphic abstract](.\GraphicAbstract.jpg)
 
 ## *Content*
 
