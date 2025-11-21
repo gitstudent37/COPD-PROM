@@ -40,7 +40,7 @@ class HeatmapPainter:
         self._create_annotations()
 
     def _param_check(self):
-        # 确保输入是DataFrame或ndarray
+        # Confirming the type of input parameters
         if not isinstance(self.corr_matrix, pd.DataFrame):
             if isinstance(self.corr_matrix, np.ndarray):
                 self.corr_matrix = pd.DataFrame(self.corr_matrix)
@@ -52,14 +52,14 @@ class HeatmapPainter:
             else:
                 raise ValueError('p_matrix must be DataFrame or ndarray')
 
-        # 输入参数预处理
+        # Checking the input parameters
         if len(self.significance_levels) != 3:
             raise ValueError('Significance levels of three floating-point thresholds are required')
         for item in self.significance_levels:
             if not isinstance(item, float):
                 raise ValueError('Significance levels of floating-point thresholds are required')
 
-        # 计算实际比较阈值，并重新生成比较阈值集合
+        # Calculating the actual comparison thresholds and regenerate the set of comparison thresholds
         num_compared = self.p_matrix.shape[0] * self.p_matrix.shape[1]
         alpha = self.significance_levels[0]
         alpha_mod = alpha / num_compared
