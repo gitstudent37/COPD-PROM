@@ -36,12 +36,6 @@ Hangzhi He, Jie Jin, Xiaojuan Hu, Lifang Li, Li Li, Hui Zhao,<sup>#</sup> and Ya
   * **SplitHalf.R** — script for calculating split-half reliability
   * **data_demo.xlsx** — demo dataset for validation analyses
 
-
-
-<u>**ATTENTION:**</u> The sample data were generated using population-level statistical characteristics and are provided solely for educational and illustrative purposes. They must not be used as the basis for research or reporting.
-
-
-
 ## *Get started*
 
 To reproduce the analyses presented in the report,  follow these steps:
